@@ -1,2 +1,2 @@
 # sample
-**samole2
+*samole2
